@@ -26,7 +26,7 @@ The objective of this portfolio is to showcase practical experience in control d
 ### Project 3: Data Loss Prevention (DLP) Strategy
 * **Focus:** Data Governance & Information Protection
 * **Description:** A formal implementation policy dictating how sensitive enterprise data is classified, monitored, and protected from exfiltration.
-* **File:** File: [Bolarinwa_Data_Loss_Prevention_(DLP)_Policy_Implementation_Strategy.pdf](Bolarinwa_Data_Loss_Prevention_%28DLP%_Policy_Implementation_Strategy.pdf)
+* **File:** File: [Bolarinwa_Data_Loss_Prevention_(DLP)_Policy_Implementation_Strategy.pdf](Bolarinwa_Data_Loss_Prevention_%DLP%_Policy_Implementation_Strategy.pdf)
   
 ### Project 4: IAM Governance Architecture
 * **Focus:** Zero Trust & Access Control
